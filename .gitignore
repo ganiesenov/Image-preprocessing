@@ -1,0 +1,12 @@
+# Ignore image directories
+*/images/*
+test/images/
+train/images/
+valid/images/
+
+# Ignore common image formats just in case
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.txt
